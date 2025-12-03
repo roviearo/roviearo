@@ -21,11 +21,11 @@ export function Contact() {
           </p>
           
           <a 
-            href="mailto:hello@roviearo.dev"
+            href="mailto:roviearo@gmail.com"
             className="inline-flex items-center gap-2 px-8 py-4 bg-foreground text-background rounded-full font-bold text-lg hover:scale-105 transition-transform"
           >
             <Mail className="w-5 h-5" />
-            hello@roviearo.dev
+            roviearo@gmail.com
           </a>
         </motion.div>
       </div>
